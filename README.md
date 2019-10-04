@@ -1,4 +1,4 @@
-# random-module
+# random-module [![Travis](https://travis-ci.org/FreeSoftwareDevlopment/random-module.svg?branch=master)](https://travis-ci.org/FreeSoftwareDevlopment/random-module)
 
 [More secure/random version](https://github.com/FreeSoftwareDevlopment/random-module/tree/more-secure-random)
 
