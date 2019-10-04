@@ -3,6 +3,7 @@ language: c
 os:
   - Bionic
   - macOS
+  - windows
 script:
   - gcc main.c -o run
   - ./run
