@@ -1,0 +1,13 @@
+compiler: gcc
+language: c
+os:
+  - Bionic
+  - macOS
+script:
+  - gcc main.c -o run
+  - ./run
+  - ./run
+  - ./run
+  - ./run
+  - ./run
+  - ./run
