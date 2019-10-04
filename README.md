@@ -2,4 +2,4 @@
 Generates random numbers
 USING HARDWARE
 
-[COMPLETE RELEASE](https://github.com/FreeSoftwareDevlopment/random-module/releases/2)
+[COMPLETE RELEASE](https://github.com/FreeSoftwareDevlopment/random-module/releases/3.0)
