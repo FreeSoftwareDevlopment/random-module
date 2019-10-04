@@ -24,7 +24,8 @@ SOFTWARE.
 #include "include.h"
 int main(void){
     FILE *fp;
-    int random = rand() % 1001;
+    srand((unsigned) time(&t));
+    int random = rand();
     printf("%d\n",random);
     fp = fopen("sharkrandomnum.txt", "w"); 
     if(fp == NULL) {
