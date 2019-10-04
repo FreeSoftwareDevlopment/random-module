@@ -6,3 +6,8 @@ os:
 script:
   - gcc main.c -o run
   - ./run
+  - ./run
+  - ./run
+  - ./run
+  - ./run
+  - ./run
