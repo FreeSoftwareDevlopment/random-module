@@ -3,6 +3,10 @@ language: c
 os:
   - Bionic
   - macOS
+  - windows
+  - Xenial
+  - Trusty
+  - Precise
 script:
   - gcc main.c -o run
   - ./run
