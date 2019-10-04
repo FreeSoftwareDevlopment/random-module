@@ -22,7 +22,6 @@ int prim(){
     int last;
     int buffer[9000];
     n=(9000);
-    printf("First %d prime numbers are \n",n) ;
     p=2;
     i=1; 
     while(i<=n)
