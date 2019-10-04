@@ -1,5 +1,5 @@
 compiler: gcc
-langunage: c
+language: c
 os:
   - Bionic
   - macOS
